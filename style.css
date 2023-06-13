@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+    font-size:30px;
+    color:white;
+}
+
+span{
+    color:aqua;
+}
+
+h2{
+    background-color: blueviolet;
+    font-size: 30px;
+    color: white;
+}
+
+h3{
+    background-color: dodgerblue;
+    text-align: right;
+    text-decoration: underline;
+    font-size: 30px;
+    color: darkmagenta;
+}
